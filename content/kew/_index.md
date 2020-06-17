@@ -1,7 +1,7 @@
 ---
 title: "Kew Gardens"
 date: 2020-03-15T14:06:11-06:00
-albumthumb: "kew01.jpg"
+albumthumb: "kew02.jpg"
 resources:
 - src: kew/kew01.jpg
 - src: kew/kew02.jpg
