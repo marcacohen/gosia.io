@@ -1,14 +1,12 @@
 ---
-title: "Cats"
+title: "Kew Gardens"
 date: 2020-03-15T14:06:11-06:00
+albumthumb: "kew01.jpg"
 resources:
-- src: cats/cat_01.jpg
-  alt: Cat in the grass
-  phototitle: Grass cat
-  description: This cat stalks through the grass
-- src: cats/cat_02.jpg
-  alt: A cat in some sort of urban setting
-  phototitle: Cool cat
-  description: One of the coolest cats
+- src: kew/kew01.jpg
+- src: kew/kew02.jpg
+- src: kew/kew03.jpg
+- src: kew/kew04.jpg
+- src: kew/kew05.jpg
 ---
 
