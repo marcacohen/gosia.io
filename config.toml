@@ -1,19 +1,19 @@
 # Settings
 baseurl = "https://gosia.io/"
 languageCode = "en-us"
-title = "AutoPhugo"
+title = "gosia.io"
 theme = "autophugo"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Karl Sickendick"
-    email = "kc0bfv@gmail.com"
+    name = "Gosia Sobecka"
+    email = "mssobecka@gmail.com"
 
 [params]
     # Meta
-    description = "AutoPhugo - Photo Gallery on Hugo"
-    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+    description = "Gosia Photo Gallery"
+    keywords = "photogallery, photoblog"
     #msvalidate = ""
     #googlesiteverification = ""
     #thumb_width = 480
@@ -100,4 +100,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     # Copyright
     [params.footer.copyright]
-    name = "Your name"
+    name = "Gosia Sobecka"
