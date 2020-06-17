@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://gosia.io/"
 languageCode = "en-us"
 title = "AutoPhugo"
 theme = "autophugo"
